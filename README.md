@@ -1,6 +1,5 @@
-## Hi there 👋
+# Hi there 👋
 
-# 💫 About Me:
 I am a Data Scientist with a strong foundation in applied machine learning, data analytics, and end-to-end system development. My work focuses on transforming complex, real-world problems into data-driven solutions that are interpretable, scalable, and decision-oriented.<br><br>I have hands-on experience building the full data science lifecycle—from data cleaning and exploratory analysis to model development, evaluation, explainability, and deployment. I am particularly interested in applying machine learning to healthcare analytics, business intelligence, and AI-powered analytics platforms, where model transparency and impact matter as much as accuracy.<br><br>Beyond modeling, I enjoy building analytics products and dashboards that enable stakeholders to interact with data and make informed decisions. I am comfortable working across the stack, collaborating with cross-functional teams, and translating technical insights into clear, actionable outcomes.<br><br>I am continuously improving my skills in machine learning, AI systems, and applied analytics, with the goal of contributing as a Data Scientist who not only builds models, but also delivers measurable value through data.
 
 
