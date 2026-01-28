@@ -1,6 +1,37 @@
 # Hi there 👋
 
-I am a Data Scientist with a strong foundation in applied machine learning, data analytics, and end-to-end system development. My work focuses on transforming complex, real-world problems into data-driven solutions that are interpretable, scalable, and decision-oriented.<br><br>I have hands-on experience building the full data science lifecycle—from data cleaning and exploratory analysis to model development, evaluation, explainability, and deployment. I am particularly interested in applying machine learning to healthcare analytics, business intelligence, and AI-powered analytics platforms, where model transparency and impact matter as much as accuracy.<br><br>Beyond modeling, I enjoy building analytics products and dashboards that enable stakeholders to interact with data and make informed decisions. I am comfortable working across the stack, collaborating with cross-functional teams, and translating technical insights into clear, actionable outcomes.<br><br>I am continuously improving my skills in machine learning, AI systems, and applied analytics, with the goal of contributing as a Data Scientist who not only builds models, but also delivers measurable value through data.
+# Hi, I'm Yash 👋
+
+I’m a **product-focused engineer** who enjoys building **software systems and data-driven applications** — dashboards, APIs, automation, and ML-backed features when they add real value.
+
+Right now, I’m focused on projects that sit at the intersection of **Software Engineering + Data/Analytics**, with extra interest in **healthcare** and **decision-support products**.
+
+---
+
+## What I build
+- **Product apps & dashboards** (Streamlit / web-style UIs) that help users explore metrics and make decisions  
+- **Backend workflows & APIs** for clean data flows and reliable features  
+- **Data pipelines & automation** to reduce manual work and improve consistency  
+- **Applied ML** (when needed), with an emphasis on **interpretability** and responsible use
+
+---
+
+## Featured projects
+- **MarketPulse** — Analytics dashboard app (product-style UI, metrics, insights)  
+- **Hospital Readmission Risk Prediction** — healthcare ML + SHAP interpretability  
+- **Multimodal ADR Normalization** — medical text + images (BERT + CLIP/ViT)
+
+👉 Check pinned repos below for code and demos.
+
+---
+
+## Tech I use often
+**Languages:** Python, SQL  
+**App/Backend:** Streamlit, REST APIs, Flask  
+**Data/ML:** Pandas, NumPy, scikit-learn, TensorFlow/PyTorch (project-based), SHAP  
+**Cloud/Tools:** Git, AWS, Tableau, Power BI
+
+---
 
 
 ## 🌐 Socials:
