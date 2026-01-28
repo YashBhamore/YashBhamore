@@ -1,7 +1,5 @@
 # Hi there 👋
 
-# Hi, I'm Yash 👋
-
 I’m a **product-focused engineer** who enjoys building **software systems and data-driven applications** — dashboards, APIs, automation, and ML-backed features when they add real value.
 
 Right now, I’m focused on projects that sit at the intersection of **Software Engineering + Data/Analytics**, with extra interest in **healthcare** and **decision-support products**.
